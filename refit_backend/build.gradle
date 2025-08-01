@@ -1,0 +1,74 @@
+plugins {
+	id 'java'
+	id 'org.springframework.boot' version '3.3.13'
+	id 'io.spring.dependency-management' version '1.1.7'
+}
+
+group = 'com'
+version = '0.0.1-SNAPSHOT'
+
+java {
+	toolchain {
+		languageVersion = JavaLanguageVersion.of(21)
+	}
+}
+
+configurations {
+	compileOnly {
+		extendsFrom annotationProcessor
+	}
+}
+
+repositories {
+	mavenCentral()
+	maven { url 'https://jitpack.io' }
+}
+
+dependencies {
+	implementation 'org.springframework.boot:spring-boot-starter-data-jpa'
+	implementation 'org.springframework.boot:spring-boot-starter-web'
+	compileOnly 'org.projectlombok:lombok'
+	developmentOnly 'org.springframework.boot:spring-boot-devtools'
+	runtimeOnly 'org.mariadb.jdbc:mariadb-java-client'
+	annotationProcessor 'org.projectlombok:lombok'
+	implementation 'org.modelmapper:modelmapper:3.1.1'
+	implementation 'net.coobird:thumbnailator:0.4.19'
+	implementation 'org.springframework.boot:spring-boot-starter-security'
+	implementation 'com.google.code.gson:gson:2.10.1'
+	implementation       'io.jsonwebtoken:jjwt-api:0.11.5'
+    runtimeOnly      'io.jsonwebtoken:jjwt-impl:0.11.5'
+    runtimeOnly      'io.jsonwebtoken:jjwt-jackson:0.11.5'
+	implementation 'org.springframework.boot:spring-boot-starter-log4j2'
+	implementation 'org.springframework.boot:spring-boot-starter-webflux'
+	
+	// Google Cloud Vision API
+	implementation 'com.google.cloud:google-cloud-vision:3.32.0'
+	
+	// Google Cloud Speech-to-Text API
+	implementation 'com.google.cloud:google-cloud-speech:4.8.0'
+
+	// 로그백 제외 (log4j2와 충돌 방지)
+	configurations {
+		all*.exclude group: 'org.springframework.boot', module: 'spring-boot-starter-logging'
+	}
+	
+	testImplementation 'org.springframework.boot:spring-boot-starter-test'
+	testRuntimeOnly 'org.junit.platform:junit-platform-launcher'
+	testCompileOnly 'org.projectlombok:lombok'
+	testAnnotationProcessor 'org.projectlombok:lombok'
+	testRuntimeOnly 'com.h2database:h2'
+   
+
+}
+
+tasks.named('test') {
+	useJUnitPlatform()
+}
+
+bootRun {
+    jvmArgs = [
+        '-Dfile.encoding=UTF-8',
+        '-Duser.language=ko', 
+        '-Duser.country=KR'
+    ]
+}

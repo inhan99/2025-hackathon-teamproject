@@ -1,0 +1,85 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 스크롤바 초기 렌더링 문제 해결 */
+.scrollbar {
+  scrollbar-width: thin;
+  scrollbar-color: #15ad10 #f3f4f6;
+}
+
+.scrollbar::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+.scrollbar::-webkit-scrollbar-track {
+  background: #f3f4f6;
+  border-radius: 4px;
+}
+
+.scrollbar::-webkit-scrollbar-thumb {
+  background: #10b981;
+  border-radius: 4px;
+}
+
+.scrollbar::-webkit-scrollbar-thumb:hover {
+  background: #059669;
+}
+
+/* 호버 효과 강제 활성화 */
+.hover\:shadow-lg:hover {
+  box-shadow: 0 10px 15px -3px rgba(0, 0, 0, 0.1),
+    0 4px 6px -2px rgba(0, 0, 0, 0.05);
+}
+
+/* 스크롤바 렌더링 완료 후 호버 효과 보장 */
+.overflow-x-auto {
+  will-change: scroll-position;
+}
+
+/* 호버 효과 지연 방지 */
+.transition-shadow,
+.transition-all,
+.transition-colors {
+  will-change: transform, opacity, box-shadow;
+}
+
+/* Swiper 네비게이션 버튼 기본 스타일 */
+.swiper-button-prev,
+.swiper-button-next {
+  @apply w-14 h-14 text-white opacity-70 transition-opacity duration-300;
+  filter: drop-shadow(0 0 5px rgba(0, 0, 0, 0.6));
+}
+
+/* 화살표 아이콘(실제 글자)는 ::after에 있으니 크기와 색상 지정 */
+.swiper-button-prev::after,
+.swiper-button-next::after {
+  @apply text-4xl font-bold;
+  color: rgba(255, 255, 255, 0.7); /* 텍스트 색상도 여기서 꼭 지정 */
+  opacity: 0.7; /* 투명도도 같이 지정 */
+  transition: color 0.3s ease, opacity 0.3s ease;
+}
+
+/* 마우스 올렸을 때 버튼과 ::after 모두 불투명, 흰색으로 */
+.swiper-button-prev:hover,
+.swiper-button-next:hover,
+.swiper-button-prev:hover::after,
+.swiper-button-next:hover::after {
+  @apply opacity-100;
+  color: rgba(255, 255, 255, 1);
+}
+/* 기존 Swiper 스타일 아래에 추가 */
+@keyframes spin-slow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+.animate-spin-slow {
+  animation: spin-slow 6s linear infinite;
+  transform-origin: center;
+}
