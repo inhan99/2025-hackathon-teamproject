@@ -31,7 +31,6 @@ refit/
 - 팀원 : 고윤호, 김찬영, 송승찬
 
 ----
-## 📁 주요 기능
 
 ### UML
 ![Image](https://github.com/user-attachments/assets/cfc15c36-1be2-49e7-a56e-292e5abfbfb4)
@@ -40,6 +39,7 @@ refit/
 <img width="1024" height="787" alt="image" src="https://github.com/user-attachments/assets/1a602e1c-8ea7-47ae-8a1a-c356ed041723" />
 
 ---
+## 📁 주요 기능
 
 #### <a id="chatbot-feature"></a>챗봇 기능
 - 채팅 기반 주문 도움(장바구니에 원하는 상품담기)
