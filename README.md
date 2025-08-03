@@ -51,16 +51,20 @@ refit/
 - 회원가입/로그인 (일반, 이에밀, 비밀번호, 닉네임을 통한 빠른 회원가입 / 로그인)
 ![Image](https://github.com/user-attachments/assets/0bf47743-c9e4-43c5-9a5f-7c7b9bfb1b00)
 
+
 - 소셜 로그인(Kakao Login,   기존 사용하던 Kakao계정을 통한 간편 회원가입 / 로그인
 ![Image](https://github.com/user-attachments/assets/6a9d20f4-bb5f-4e14-b3a8-705fe0226c02)
 
 #### <a id="order-feature"></a>상품 주문 기능
 - 상품 검색 및 필터링
-- 장바구니 추가 및 주문
+![Image](https://github.com/user-attachments/assets/a2192b63-42f4-4a32-9809-24027a33898f)
 
-#### <a id="cart-feature"></a>장바구니 기능
-- 장바구니에 상품 추가
-- 장바구니 상품 관리
+
+- 장바구니 추가 및 주문(장바구니 상품 수량 조절, 선택 구매)
+![Image](https://github.com/user-attachments/assets/30b463f8-a395-445c-88b7-56eb36b839ab)
+
+- 상품 주문(적립금 사용, KakaoMap을 통한 주소지 설정, )
+
 
 #### <a id="cart-feature"></a>상품 리뷰 기능
 - 장바구니에 상품 추가
