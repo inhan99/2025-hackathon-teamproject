@@ -39,7 +39,7 @@ refit/
 - 음성 기반 주문 도움
 - 그래프 기반 실시간 차트
 
-#### <a id="login-feature"></a>로그인 기능
+#### <a id="![Image](https://github.com/user-attachments/assets/d5c83885-3e9c-4ad2-a8d7-941a876405be)"></a>로그인 기능
 - 회원가입/로그인 (일반, 카카오 소셜 로그인)
 
 #### <a id="order-feature"></a>상품 주문 기능
