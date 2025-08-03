@@ -73,10 +73,12 @@ refit/
 
 #### <a id="donation-product-registration"></a>나눔 상품 등록
 - 나눔 상품 등록 및 관리
+![Image](https://github.com/user-attachments/assets/b5e54717-ef63-4ebb-a77a-1d61e65cb6cf)
+
 
 #### <a id="community-feature"></a>커뮤니티 기능
 - 커뮤니티 게시판
-
+![Image](https://github.com/user-attachments/assets/04e67ce7-adf2-4faf-8896-f45c846a76be)
 
 
 ## 🚀 실행 방법
