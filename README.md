@@ -38,8 +38,12 @@ refit/
 #### <a id="chatbot-feature"></a>챗봇 기능
 - 채팅 기반 주문 도움(장바구니에 원하는 상품담기)
 ![Image](https://github.com/user-attachments/assets/bebb86e6-71e9-4fcb-99d1-c4f0908daa4a)
+
+
 - 음성 기반 주문 도움(적립금으로 장바구니에 있는 상품 One-Step 으로 구매하기)
 ![Image](https://github.com/user-attachments/assets/31949c01-1321-45cc-a325-6ff60a0af25b)
+
+
 - 그래프 기반 실시간 차트
 
 #### <a id="login-feature"></a>로그인 기능
