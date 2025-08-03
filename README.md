@@ -86,7 +86,7 @@ refit/
 
 ### 📋 사전 준비
 
-#### 1. 데이터베이스 설정 (MySQL Workbench)
+#### 데이터베이스 설정 (MySQL Workbench)
 
 ```sql
 -- 데이터베이스 생성
@@ -98,7 +98,6 @@ GRANT ALL PRIVILEGES ON refitdb.* TO 'refitdbuser'@'localhost';
 USE refitdb;
 ```
 
-#### 2. 환경 변수 설정
 ### 개발환경
 - 언어
   
