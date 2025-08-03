@@ -47,6 +47,9 @@ refit/
 - 그래프 기반 실시간 차트
 ![Image](https://github.com/user-attachments/assets/2d9b708d-4d04-4b28-8154-fb0299e4edfa)
 
+- 사용자 신체 정보 기반 추천 시스템(사용자 신체 정보가 없을 시 마이페이지 이동 -> 신체사이즈 입력 -> 입력한 데이터 기반 상품 추천)
+![Image](https://github.com/user-attachments/assets/0d2dce76-3bd9-464e-8280-5711badf7a09)
+
 #### <a id="login-feature"></a>로그인 기능
 - 회원가입/로그인 (일반, 이에밀, 비밀번호, 닉네임을 통한 빠른 회원가입 / 로그인)
 ![Image](https://github.com/user-attachments/assets/0bf47743-c9e4-43c5-9a5f-7c7b9bfb1b00)
@@ -64,14 +67,9 @@ refit/
 ![Image](https://github.com/user-attachments/assets/30b463f8-a395-445c-88b7-56eb36b839ab)
 
 - 상품 주문(적립금 사용, KakaoMap을 통한 주소지 설정, )
+![Image](https://github.com/user-attachments/assets/99cf9ac5-9253-4b05-9dad-e3efcbb86afd)
 
 
-#### <a id="cart-feature"></a>상품 리뷰 기능
-- 장바구니에 상품 추가
-- 장바구니 상품 관리
-
-#### <a id="size-based-recommendation"></a>사용자 신체사이즈 기반 추천
-- 사용자 신체 정보 기반 추천 시스템
 
 #### <a id="donation-product-registration"></a>나눔 상품 등록
 - 나눔 상품 등록 및 관리
