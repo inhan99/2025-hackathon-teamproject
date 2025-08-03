@@ -12,9 +12,10 @@ refit/
 ├── refit_front/       # React 프론트엔드
 └── refit_chatbot/     # Python 챗봇 서버
 ```
-### PDF
+###PDF
 
-### 시연영상
+### <a link="https://www.youtube.com/watch?v=DK-zfwD3IEY">시연영상</a>
+
 
 ### 개발 기간
 6월 30일 (월) ~ 7월 25일(금)
