@@ -55,7 +55,7 @@ refit/
 ![Image](https://github.com/user-attachments/assets/0bf47743-c9e4-43c5-9a5f-7c7b9bfb1b00)
 
 
-- 소셜 로그인(Kakao Login,   기존 사용하던 Kakao계정을 통한 간편 회원가입 / 로그인
+- 소셜 로그인(Kakao Login,   기존 사용하던 Kakao계정을 통한 간편 회원가입 / 로그인)
 ![Image](https://github.com/user-attachments/assets/6a9d20f4-bb5f-4e14-b3a8-705fe0226c02)
 
 #### <a id="order-feature"></a>상품 주문 기능
@@ -66,18 +66,18 @@ refit/
 - 장바구니 추가 및 주문(장바구니 상품 수량 조절, 선택 구매)
 ![Image](https://github.com/user-attachments/assets/30b463f8-a395-445c-88b7-56eb36b839ab)
 
-- 상품 주문(적립금 사용, KakaoMap을 통한 주소지 설정, )
+- 상품 주문(적립금 사용, KakaoMap을 통한 주소지 설정, PortoneApi를 통한 KakaoApi 결제)
 ![Image](https://github.com/user-attachments/assets/99cf9ac5-9253-4b05-9dad-e3efcbb86afd)
 
 
 
 #### <a id="donation-product-registration"></a>나눔 상품 등록
-- 나눔 상품 등록 및 관리
+- 나눔 상품 등록 및 관리(주문 목록에서 나눔 등록 -> 관리자 권한이 있는 아이디로 나눔 상품 검수 승인)
 ![Image](https://github.com/user-attachments/assets/b5e54717-ef63-4ebb-a77a-1d61e65cb6cf)
 
 
 #### <a id="community-feature"></a>커뮤니티 기능
-- 커뮤니티 게시판
+- 커뮤니티 게시판 (게시판+댓글 기능)
 ![Image](https://github.com/user-attachments/assets/04e67ce7-adf2-4faf-8896-f45c846a76be)
 
 
