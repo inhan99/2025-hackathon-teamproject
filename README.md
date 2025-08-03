@@ -12,7 +12,7 @@ refit/
 └── refit_chatbot/     # Python 챗봇 서버
 ```
 
-### 멤버
+### 팀원
 
 <table>
   <tr>
