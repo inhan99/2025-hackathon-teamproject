@@ -12,6 +12,9 @@ refit/
 └── refit_chatbot/     # Python 챗봇 서버
 ```
 
+### 개발 기간
+6월 30일 (월) ~ 7월 25일(금)
+
 ### 팀원
 
 <table>
@@ -28,6 +31,51 @@ refit/
 - 팀원 : 고윤호, 김찬영, 송승찬
 
 ----
+## 📁 주요 기능
+
+### 사용자 기능
+
+## 📚 목차
+
+- [챗봇 기능](#chatbot-feature)
+- [로그인 기능](#login-feature)
+- [상품 주문 기능](#order-feature)
+- [장바구니 기능](#cart-feature)
+- [커뮤니티 기능](#community-feature)
+- [사용자 신체사이즈 기반 추천](#size-based-recommendation)
+- [나눔 상품 등록](#donation-product-registration)
+
+#### <a id="chatbot-feature"></a>챗봇 기능
+- 상품 추천
+- 주문 도움
+- 실시간 상담
+
+#### <a id="login-feature"></a>로그인 기능
+- 회원가입/로그인 (일반, 카카오 소셜 로그인)
+
+#### <a id="order-feature"></a>상품 주문 기능
+- 상품 검색 및 필터링
+- 장바구니 추가 및 주문
+
+#### <a id="cart-feature"></a>장바구니 기능
+- 장바구니에 상품 추가
+- 장바구니 상품 관리
+
+#### <a id="cart-feature"></a>상품 리뷰 기능
+- 장바구니에 상품 추가
+- 장바구니 상품 관리
+
+#### <a id="size-based-recommendation"></a>사용자 신체사이즈 기반 추천
+- 사용자 신체 정보 기반 추천 시스템
+
+#### <a id="donation-product-registration"></a>나눔 상품 등록
+- 나눔 상품 등록 및 관리
+
+#### <a id="community-feature"></a>커뮤니티 기능
+- 커뮤니티 게시판
+
+
+
 ## 🚀 실행 방법
 
 ### 📋 사전 준비
