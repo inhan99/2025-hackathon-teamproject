@@ -36,6 +36,11 @@ refit/
 ### UML
 ![Image](https://github.com/user-attachments/assets/cfc15c36-1be2-49e7-a56e-292e5abfbfb4)
 
+## ERD
+<img width="1024" height="787" alt="image" src="https://github.com/user-attachments/assets/1a602e1c-8ea7-47ae-8a1a-c356ed041723" />
+
+---
+
 #### <a id="chatbot-feature"></a>챗봇 기능
 - 채팅 기반 주문 도움(장바구니에 원하는 상품담기)
 ![Image](https://github.com/user-attachments/assets/bebb86e6-71e9-4fcb-99d1-c4f0908daa4a)
@@ -117,10 +122,6 @@ USE refitdb;
 
 ---
 
-## ERD
-<img width="1024" height="787" alt="image" src="https://github.com/user-attachments/assets/1a602e1c-8ea7-47ae-8a1a-c356ed041723" />
-
----
 
 **챗봇**
 
