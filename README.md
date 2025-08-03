@@ -36,13 +36,16 @@ refit/
 ### 사용자 기능
 
 #### <a id="chatbot-feature"></a>챗봇 기능
+- 채팅 기반 주문 도움
+
 - 음성 기반 주문 도움
+![Image](https://github.com/user-attachments/assets/31949c01-1321-45cc-a325-6ff60a0af25b)
 - 그래프 기반 실시간 차트
 
 #### <a id="login-feature"></a>로그인 기능
 - 회원가입/로그인 (일반)
 
-  -이에밀, 비밀번호, 닉네임을 통한 빠른 회원가입 / 로그인
+  이에밀, 비밀번호, 닉네임을 통한 빠른 회원가입 / 로그인
 ![Image](https://github.com/user-attachments/assets/0bf47743-c9e4-43c5-9a5f-7c7b9bfb1b00)
 
 - 소셜 로그인(Kakao Login)
