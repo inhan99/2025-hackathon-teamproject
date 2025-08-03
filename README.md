@@ -12,9 +12,9 @@ refit/
 ├── refit_front/       # React 프론트엔드
 └── refit_chatbot/     # Python 챗봇 서버
 ```
-###PDF
+### PDF
 
-### <a link="https://www.youtube.com/watch?v=DK-zfwD3IEY">시연영상</a>
+### [시연영상](https://www.youtube.com/watch?v=DK-zfwD3IEY)
 
 
 ### 개발 기간
