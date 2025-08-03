@@ -2,6 +2,7 @@
 
 Refit은 중고 의류 판매 및 기부 플랫폼으로, 지속가능한 패션을 위한 의류 거래 서비스를 제공합니다.
 
+
 ## 🏗️ 프로젝트 구조
 
 ```
@@ -11,6 +12,22 @@ refit/
 └── refit_chatbot/     # Python 챗봇 서버
 ```
 
+### 멤버
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/inhan99"><img src="https://avatars.githubusercontent.com/inhan99" width="100px;" alt=""/><br /><sub><b>inhan99</b></sub></a></td>
+    <td align="center"><a href="https://github.com/KessokuMAS"><img src="https://avatars.githubusercontent.com/KessokuMAS" width="100px;" alt=""/><br /><sub><b>KessokuMAS</b></sub></a></td>
+    <td align="center"><a href="https://github.com/chanO4135"><img src="https://avatars.githubusercontent.com/jh-8249/chanO4135" width="100px;" alt=""/><br /><sub><b>chanO4135</b></sub></a></td>
+     <td align="center"><a href="https://github.com/bannana-key"><img src="https://avatars.githubusercontent.com/bannana-key" width="100px;" alt=""/><br /><sub><b>bannana-key</b></sub></a></td>
+  </tr>
+</table>
+
+- 팀장 : 고인한
+  
+- 팀원 : 고윤호, 김찬영, 송승찬찬
+
+----
 ## 🚀 실행 방법
 
 ### 📋 사전 준비
