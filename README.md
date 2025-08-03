@@ -18,7 +18,7 @@ refit/
   <tr>
     <td align="center"><a href="https://github.com/inhan99"><img src="https://avatars.githubusercontent.com/inhan99" width="100px;" alt=""/><br /><sub><b>inhan99</b></sub></a></td>
     <td align="center"><a href="https://github.com/KessokuMAS"><img src="https://avatars.githubusercontent.com/KessokuMAS" width="100px;" alt=""/><br /><sub><b>KessokuMAS</b></sub></a></td>
-    <td align="center"><a href="https://github.com/chanO4135"><img src="https://avatars.githubusercontent.com/jh-8249/chanO4135" width="100px;" alt=""/><br /><sub><b>chanO4135</b></sub></a></td>
+    <td align="center"><a href="https://github.com/chanO4135"><img src="https://avatars.githubusercontent.com/chanO4135" width="100px;" alt=""/><br /><sub><b>chanO4135</b></sub></a></td>
      <td align="center"><a href="https://github.com/bannana-key"><img src="https://avatars.githubusercontent.com/bannana-key" width="100px;" alt=""/><br /><sub><b>bannana-key</b></sub></a></td>
   </tr>
 </table>
