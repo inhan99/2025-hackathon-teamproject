@@ -41,7 +41,9 @@ refit/
 
 #### <a id="login-feature"></a>로그인 기능
 - 회원가입/로그인 (일반, 카카오 소셜 로그인)
-https://github.com/user-attachments/assets/b9f3dca0-1524-4aa5-b2e3-5d241982cf39
+- 
+![Image](https://github.com/user-attachments/assets/e310d66c-8287-40bb-8018-20211919ab92)
+
 #### <a id="order-feature"></a>상품 주문 기능
 - 상품 검색 및 필터링
 - 장바구니 추가 및 주문
