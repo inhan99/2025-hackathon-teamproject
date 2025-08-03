@@ -33,7 +33,8 @@ refit/
 ----
 ## 📁 주요 기능
 
-### 사용자 기능
+### UML
+![Image](https://github.com/user-attachments/assets/9b7fc5ee-020b-49f5-a540-85cd08ee3b24)
 
 #### <a id="chatbot-feature"></a>챗봇 기능
 - 채팅 기반 주문 도움(장바구니에 원하는 상품담기)
