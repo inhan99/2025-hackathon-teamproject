@@ -47,7 +47,7 @@ refit/
 - 그래프 기반 실시간 차트
 ![Image](https://github.com/user-attachments/assets/2d9b708d-4d04-4b28-8154-fb0299e4edfa)
 
-- 사용자 신체 정보 기반 추천 시스템(사용자 신체 정보가 없을 시 마이페이지 이동 -> 신체사이즈 입력 -> 입력한 데이터 기반 상품 추천)
+- 사용자 신체 정보 기반 추천 시스템(사용자 신체 정보가 없을 시 마이페이지 이동 -> 신체 정보 입력 -> 입력한 데이터 기반 상품 추천)
 ![Image](https://github.com/user-attachments/assets/0d2dce76-3bd9-464e-8280-5711badf7a09)
 
 #### <a id="login-feature"></a>로그인 기능
