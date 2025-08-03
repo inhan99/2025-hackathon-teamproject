@@ -45,6 +45,7 @@ refit/
 
 
 - 그래프 기반 실시간 차트
+![Image](https://github.com/user-attachments/assets/2d9b708d-4d04-4b28-8154-fb0299e4edfa)
 
 #### <a id="login-feature"></a>로그인 기능
 - 회원가입/로그인 (일반, 이에밀, 비밀번호, 닉네임을 통한 빠른 회원가입 / 로그인)
