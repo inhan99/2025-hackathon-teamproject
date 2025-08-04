@@ -12,7 +12,7 @@ refit/
 ├── refit_front/       # React 프론트엔드
 └── refit_chatbot/     # Python 챗봇 서버
 ```
-### [PDF(클릭시 이동)](https://github.com/inhan99/fullstack_teamproject_refit/blob/main/1%EC%A1%B0_refit_pdf.pdf)
+### [PDF(클릭시 이동)](https://github.com/inhan99/fullstack_teamproject_refit/blob/main/refit_project_pdf.pdf)
 
 
 ### [시연영상(클릭시 이동)](https://www.youtube.com/watch?v=DK-zfwD3IEY)
